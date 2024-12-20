@@ -19,7 +19,7 @@ FOOTER='</body>
 </html>'
 
 
-IMAGES=$(ls -1 *.gif)
+IMAGES=$(ls -1 *.gif *.png *.jpg)
 
 echo "$HEADER"
 echo "<h1>Thomas' Linksammelsurium</h1>"
